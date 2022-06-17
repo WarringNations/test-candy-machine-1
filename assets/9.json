@@ -1,0 +1,54 @@
+{
+  "name": "Collecion test WN 2 #9",
+  "symbol": "WN",
+  "description": "Description for collection test WN",
+  "seller_fee_basis_points": 250,
+  "image": "9.png",
+  "external_url": "https://warring-nations.webflow.io/",
+  "edition": 9,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Eyeball",
+      "value": "White"
+    },
+    {
+      "trait_type": "Eye color",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Iris",
+      "value": "Small"
+    },
+    {
+      "trait_type": "Shine",
+      "value": "Shapes"
+    },
+    {
+      "trait_type": "Bottom lid",
+      "value": "Middle"
+    },
+    {
+      "trait_type": "Top lid",
+      "value": "High"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "9.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "CV3kf1Vh6aBpPGVHAnJNbDCFwxRaHLxturzrQb4gmgLE",
+        "share": 100
+      }
+    ]
+  }
+}
